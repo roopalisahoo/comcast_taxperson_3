@@ -25,7 +25,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
  */
 public class CalculateFinalPrice 
 {
-	public static String fileName = "/home/roopali/javacode/car_inventory.xlsx";
+	public static String fileName = "/home/localrep/javacode/car_inventory.xlsx";
 	public static void main(String[] args) 
 	{
 		/*
