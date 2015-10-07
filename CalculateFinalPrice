@@ -33,7 +33,7 @@ public class CalculateFinalPrice
 		 * 2. readFromInventory, show price details
 		 * 3. Ask user if need to select one more car
 		 * 4. If yes, then take input, repeat 1 and 2
-		 * 5. Allows maximum 2 cars to select in one transaction
+		 * 5. Allows maximum up to 2 cars to select in one transaction
 		 * 6. Calculate tax and show final price to user
 		 * 7. Ask user if they want to proceed with transaction.
 		 * 8. If yes, call updateInventory, show success message
